@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'minecraft'; /* Name for the font */
+    src: url('resources/fonts/minecraft/MinecraftRegular.otf') format('opentype');
+}
+@font-face {
+    font-family: 'minecraft_i'; /* Name for the font */
+    src: url('resources/fonts/minecraft/MinecraftItalic.otf') format('opentype');
+}
